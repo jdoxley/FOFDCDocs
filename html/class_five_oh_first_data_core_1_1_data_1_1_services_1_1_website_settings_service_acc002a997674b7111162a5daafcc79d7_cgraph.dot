@@ -1,0 +1,12 @@
+digraph "FiveOhFirstDataCore.Data.Services.WebsiteSettingsService.OverrideCShopClaimSettingsAsync"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="FiveOhFirstDataCore.Data.\lServices.WebsiteSettingsService.\lOverrideCShopClaimSettingsAsync",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Override current C-Shop claim settings with the inputed data."];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="FiveOhFirstDataCore.Data.\lServices.WebsiteSettingsService.\lReloadClaimTreeAsync",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_five_oh_first_data_core_1_1_data_1_1_services_1_1_website_settings_service.html#a6b6f5ad002336d22c23455025e30c778",tooltip="Reload the Cached claim tree."];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="FiveOhFirstDataCore.Data.\lServices.WebsiteSettingsService.\lGetFullClaimsTreeAsync",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_five_oh_first_data_core_1_1_data_1_1_services_1_1_website_settings_service.html#aa1b2a4372b0f8438f46632c84efa8bb6",tooltip="Get the full C-Shop claims tree from the database."];
+}

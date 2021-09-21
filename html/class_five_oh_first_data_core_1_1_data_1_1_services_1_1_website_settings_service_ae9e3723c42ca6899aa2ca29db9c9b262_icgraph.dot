@@ -1,0 +1,10 @@
+digraph "FiveOhFirstDataCore.Data.Services.WebsiteSettingsService.GetCshopLevelsAsync"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="RL";
+  Node1 [label="FiveOhFirstDataCore.Data.\lServices.WebsiteSettingsService.\lGetCshopLevelsAsync",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Gets a boolean tuple with values determining if a trooper is in C-Shop leadership or command."];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="FiveOhFirstDataCore.Data.\lServices.WebsiteSettingsService.\lGetEligiblePromotionsAsync",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_five_oh_first_data_core_1_1_data_1_1_services_1_1_website_settings_service.html#a4296566b981a0bfdccbf970731be6ef6",tooltip="Get the eligible promotions for a Trooper"];
+}

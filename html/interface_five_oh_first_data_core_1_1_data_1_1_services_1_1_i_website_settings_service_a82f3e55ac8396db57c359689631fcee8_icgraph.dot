@@ -1,0 +1,26 @@
+digraph "FiveOhFirstDataCore.Data.Services.IWebsiteSettingsService.GetFullClaimsTreeAsync"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="RL";
+  Node1 [label="FiveOhFirstDataCore.Data.\lServices.IWebsiteSettingsService.\lGetFullClaimsTreeAsync",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Get the full C-Shop claims tree from the database."];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="FiveOhFirstDataCore.Data.\lServices.RosterService.GetC1PermissionsAsync",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_five_oh_first_data_core_1_1_data_1_1_services_1_1_roster_service.html#a7e0a5627128c3be521b9f9f1fddb84b6",tooltip="Get allowed access values for the provided claims  in C1."];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="FiveOhFirstDataCore.Data.\lServices.RosterService.GetC3PermissionsAsync",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_five_oh_first_data_core_1_1_data_1_1_services_1_1_roster_service.html#acfc4cc38a88ae4757f9b8947430a47a0",tooltip="Get allowed access values for the provided claims  in C3."];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="FiveOhFirstDataCore.Data.\lServices.RosterService.GetC4PermissionsAsync",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_five_oh_first_data_core_1_1_data_1_1_services_1_1_roster_service.html#a30ecd40bb07962f3c476f7a90f5e89c6",tooltip="Get allowed access values for the provided claims  in C4."];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="FiveOhFirstDataCore.Data.\lServices.RosterService.GetC5PermissionsAsync",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_five_oh_first_data_core_1_1_data_1_1_services_1_1_roster_service.html#a4c524c1503d76eaf4ba0f39cca8456c5",tooltip="Get allowed access values for the provided claims  in C5."];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="FiveOhFirstDataCore.Data.\lServices.RosterService.GetC6PermissionsAsync",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_five_oh_first_data_core_1_1_data_1_1_services_1_1_roster_service.html#a296a55c29554d875c6382845b9f3ad5b",tooltip="Get allowed access values for the provided claims  in C6."];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="FiveOhFirstDataCore.Data.\lServices.RosterService.GetC7PermissionsAsync",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_five_oh_first_data_core_1_1_data_1_1_services_1_1_roster_service.html#a0fddd77546436756bf05de93e9c9f00f",tooltip="Get allowed access values for the provided claims  in C7."];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="FiveOhFirstDataCore.Data.\lServices.RosterService.GetC8PermissionsAsync",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_five_oh_first_data_core_1_1_data_1_1_services_1_1_roster_service.html#ac585b59d4cbf4fa3f0f4e376773c1492",tooltip="Get allowed access values for the provided claims  in C8."];
+  Node1 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="FiveOhFirstDataCore.Data.\lServices.RosterService.GetCShop\lClaimsAsync",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_five_oh_first_data_core_1_1_data_1_1_services_1_1_roster_service.html#a130d48ef8ddf4f41c1dfc30d8cc3ba83",tooltip="Get the C-Shop claim data for the provided trooper."];
+  Node9 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="FiveOhFirstDataCore.Data.\lServices.RosterService.UpdateAsync",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_five_oh_first_data_core_1_1_data_1_1_services_1_1_roster_service.html#ac85ee7c91d57c520c1829e6228a36bc0",tooltip="Update a troopers 501st related data."];
+}

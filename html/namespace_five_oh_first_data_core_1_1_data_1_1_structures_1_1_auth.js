@@ -1,0 +1,4 @@
+var namespace_five_oh_first_data_core_1_1_data_1_1_structures_1_1_auth =
+[
+    [ "WebsiteSettingsAuthorizationPolicyBuilder", "class_five_oh_first_data_core_1_1_data_1_1_structures_1_1_auth_1_1_website_settings_authorization_policy_builder.html", "class_five_oh_first_data_core_1_1_data_1_1_structures_1_1_auth_1_1_website_settings_authorization_policy_builder" ]
+];

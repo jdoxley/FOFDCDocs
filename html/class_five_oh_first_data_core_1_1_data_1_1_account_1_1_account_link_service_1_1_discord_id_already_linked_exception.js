@@ -1,0 +1,7 @@
+var class_five_oh_first_data_core_1_1_data_1_1_account_1_1_account_link_service_1_1_discord_id_already_linked_exception =
+[
+    [ "DiscordIdAlreadyLinkedException", "class_five_oh_first_data_core_1_1_data_1_1_account_1_1_account_link_service_1_1_discord_id_already_linked_exception.html#af07a97bd962b4886e14c8dc8e8d7834d", null ],
+    [ "DiscordIdAlreadyLinkedException", "class_five_oh_first_data_core_1_1_data_1_1_account_1_1_account_link_service_1_1_discord_id_already_linked_exception.html#a9a9196874ee00aacddd6d3e9d3407292", null ],
+    [ "DiscordIdAlreadyLinkedException", "class_five_oh_first_data_core_1_1_data_1_1_account_1_1_account_link_service_1_1_discord_id_already_linked_exception.html#a98b2ece0db9525f535ee9de3cea1cd35", null ],
+    [ "DiscordIdAlreadyLinkedException", "class_five_oh_first_data_core_1_1_data_1_1_account_1_1_account_link_service_1_1_discord_id_already_linked_exception.html#a29f14c9580a989159613b624242b61bf", null ]
+];

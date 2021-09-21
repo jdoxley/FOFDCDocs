@@ -1,0 +1,9 @@
+digraph "FiveOhFirstDataCore.Data.Services.EparService"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="FiveOhFirstDataCore.Data.\lServices.EparService",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip=" "];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="IEparService",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$interface_five_oh_first_data_core_1_1_data_1_1_services_1_1_i_epar_service.html",tooltip=" "];
+}

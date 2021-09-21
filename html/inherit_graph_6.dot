@@ -1,0 +1,8 @@
+digraph "Graphical Class Hierarchy"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node0 [label="FiveOhFirstDataCore.Areas.\lIdentity.Pages.Account.Manage.\lEmailModel.InputModel",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_five_oh_first_data_core_1_1_areas_1_1_identity_1_1_pages_1_1_account_1_1_manage_1_1_email_model_1_1_input_model.html",tooltip=" "];
+}

@@ -1,0 +1,6 @@
+var class_five_oh_first_data_core_1_1_data_1_1_structures_1_1_auth_1_1_website_settings_authorization_policy_builder =
+[
+    [ "WebsiteSettingsAuthorizationPolicyBuilder", "class_five_oh_first_data_core_1_1_data_1_1_structures_1_1_auth_1_1_website_settings_authorization_policy_builder.html#aaddce129881f7ba752a73e80832e06b1", null ],
+    [ "RequireAssertion", "class_five_oh_first_data_core_1_1_data_1_1_structures_1_1_auth_1_1_website_settings_authorization_policy_builder.html#ae863f1b0bb1a041a5d5834554f8fad9b", null ],
+    [ "RequireAssertion", "class_five_oh_first_data_core_1_1_data_1_1_structures_1_1_auth_1_1_website_settings_authorization_policy_builder.html#a2fa1a0479f8764e7c7ed80b0857fc570", null ]
+];

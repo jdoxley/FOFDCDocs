@@ -1,0 +1,4 @@
+var namespace_five_oh_first_data_core_1_1_data_1_1_structuresbase =
+[
+    [ "ApplicationDbContext", "class_five_oh_first_data_core_1_1_data_1_1_structuresbase_1_1_application_db_context.html", "class_five_oh_first_data_core_1_1_data_1_1_structuresbase_1_1_application_db_context" ]
+];

@@ -1,0 +1,8 @@
+var searchData=
+[
+  ['battalion_0',['Battalion',['../namespace_five_oh_first_data_core_1_1_data_1_1_structures_1_1_promotions.html#a87c0d9bbf0bb098414aaf417fb6813c5a5b6e95ad8e21fa108d364f3637132916',1,'FiveOhFirstDataCore::Data::Structures::Promotions']]],
+  ['battalionsergeantmajor_1',['BattalionSergeantMajor',['../namespace_five_oh_first_data_core_1_1_data_1_1_structures.html#a7435f18d99e0e2818d46032485e547fcaa510e04942cce8f8f54f04f8d4bfb8eb',1,'FiveOhFirstDataCore.Data.Structures.BattalionSergeantMajor()'],['../namespace_five_oh_first_data_core_1_1_data_1_1_structures.html#a397631e5a4247f13ca782fd9d0af9c82aa510e04942cce8f8f54f04f8d4bfb8eb',1,'FiveOhFirstDataCore.Data.Structures.BattalionSergeantMajor()'],['../namespace_five_oh_first_data_core_1_1_data_1_1_structures.html#a70821faa464874d223191c0a400bab69aa510e04942cce8f8f54f04f8d4bfb8eb',1,'FiveOhFirstDataCore.Data.Structures.BattalionSergeantMajor()']]],
+  ['bctstaff_2',['BCTStaff',['../namespace_five_oh_first_data_core_1_1_data_1_1_structures.html#acde6123448149b89c31e478c5649ef75ac233d44477efe119d9bce0cfa557820d',1,'FiveOhFirstDataCore::Data::Structures']]],
+  ['bigbrother_3',['BigBrother',['../namespace_five_oh_first_data_core_1_1_data_1_1_structures.html#acde6123448149b89c31e478c5649ef75ade72f2666e6b5f2034efc284f2632a27',1,'FiveOhFirstDataCore::Data::Structures']]],
+  ['bravo_4',['Bravo',['../namespace_five_oh_first_data_core_1_1_data_1_1_structures.html#aac91688f639cc62f23c2ce7198ba380fa01a2da07bf36766155f48fc670d53fe8',1,'FiveOhFirstDataCore.Data.Structures.Bravo()'],['../namespace_five_oh_first_data_core_1_1_data_1_1_structures.html#a662ac9c22437d4a440490eb07d76b12ea01a2da07bf36766155f48fc670d53fe8',1,'FiveOhFirstDataCore.Data.Structures.Bravo()']]]
+];

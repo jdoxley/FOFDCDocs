@@ -1,0 +1,22 @@
+digraph "Graphical Class Hierarchy"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node55 [label="IAsyncDisposable",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node55 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node0 [label="FiveOhFirstDataCore.Data.\lStructures.Import.OrbatImport",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_five_oh_first_data_core_1_1_data_1_1_structures_1_1_import_1_1_orbat_import.html",tooltip=" "];
+  Node55 -> Node57 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node57 [label="FiveOhFirstDataCore.Data.\lStructures.Import.Qualification\lImport",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_five_oh_first_data_core_1_1_data_1_1_structures_1_1_import_1_1_qualification_import.html",tooltip=" "];
+  Node55 -> Node58 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node58 [label="FiveOhFirstDataCore.Data.\lStructures.Import.SupportingElements\lImport",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_five_oh_first_data_core_1_1_data_1_1_structures_1_1_import_1_1_supporting_elements_import.html",tooltip=" "];
+  Node69 [label="IDisposable",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip=" "];
+  Node69 -> Node70 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node70 [label="App",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_app.html",tooltip=" "];
+  Node69 -> Node71 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node71 [label="FiveOhFirstDataCore.Data.\lComponents.Base.IRefreshBase",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$interface_five_oh_first_data_core_1_1_data_1_1_components_1_1_base_1_1_i_refresh_base.html",tooltip=" "];
+  Node69 -> Node0 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node69 -> Node57 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node69 -> Node58 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

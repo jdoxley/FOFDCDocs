@@ -1,0 +1,10 @@
+digraph "FiveOhFirstDataCore.Data.Services.RosterService.GetCShopClaimsAsync"
+{
+ // LATEX_PDF_SIZE
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="FiveOhFirstDataCore.Data.\lServices.RosterService.GetCShop\lClaimsAsync",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black",tooltip="Get the C-Shop claim data for the provided trooper."];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="FiveOhFirstDataCore.Data.\lServices.IWebsiteSettingsService.\lGetFullClaimsTreeAsync",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$interface_five_oh_first_data_core_1_1_data_1_1_services_1_1_i_website_settings_service.html#a82f3e55ac8396db57c359689631fcee8",tooltip="Get the full C-Shop claims tree from the database."];
+}
